@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/ArteiusWorkshop/FM-product-preview-card-component)
+- Live Site URL: [Add live site URL here](https://arteiusworkshop.github.io/FM-product-preview-card-component/)
 
 ## My process
 
@@ -50,8 +50,4 @@ Since 2010 that I do not use pure HTML and CSS for a whole website, page in this
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ArteiusWasTaken)
